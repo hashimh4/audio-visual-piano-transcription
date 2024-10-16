@@ -1,5 +1,5 @@
 # audio-visual-piano-transcription
-Near state-of-the-art audio-visual piano transcription. See the code at: [audio-visual-music-transcription](https://github.com/CognitiveComputingLab/audio-visual-music-transcription)
+Near state-of-the-art audio-visual piano transcription. See the code at: [audio-visual-music-transcription](https://github.com/CognitiveComputingLab/audio-visual-music-transcription).
 
 ## Abstract
 **Aims** - To develop the first publically avaliable joint audio-visual piano transcription (AMT) model, introducing a novel
@@ -21,11 +21,13 @@ its applicability to a wider range of real-world scenarios.
 
 ## Proof of Concept
 With the example 06_02 taken from OMAPS2, the audio-visual model used improves upon current audio transcription methods in all of the examples tested.
+![](https://raw.githubusercontent.com/hashimh4/audio-visual-piano-transcription/refs/heads/main/Screenshots/screenshot1.png)
+![](https://raw.githubusercontent.com/hashimh4/audio-visual-piano-transcription/refs/heads/main/Screenshots/screenshot2.png)
 
-The transcription for [Georgia On My Mind - Piano Online](https://www.youtube.com/watch?v=6_IBXag2Big) can also be seen in the "Proof of Concept" folder.
+The transcription for [Georgia On My Mind - Piano Online](https://www.youtube.com/watch?v=6_IBXag2Big) can also be seen in the "Proof of Concept" folder under the "georgia" files.
 
 ## Future Work
 Current work is being completed here. Areas to improve upon revolve around keyboard detection correct key / hand segmentation from other angles. Updates in progress will be provided in a separate repository in the future.
 
 ## Contact
-Please send me an email at [hashimhussain4242@gmail.com](mailto:hashimhussain4242@gmail.com) for further information and the full paper completed for my MEng Dissertation.
+Please send me an email at [hashimhussain4242@gmail.com](mailto:hashimhussain4242@gmail.com) for further information, such as for the full paper completed for my MEng Dissertation.
