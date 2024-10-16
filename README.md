@@ -20,9 +20,12 @@ styles. By addressing these areas, it is anticipated that the next iteration of 
 its applicability to a wider range of real-world scenarios.
 
 ## Proof of Concept
-With the example 06_02 taken from OMAPS2, the audio-visual model used improves upon current audio transcription methods in all of the examples tested.
-![](https://raw.githubusercontent.com/hashimh4/audio-visual-piano-transcription/refs/heads/main/Screenshots/screenshot1.png)
-![](https://raw.githubusercontent.com/hashimh4/audio-visual-piano-transcription/refs/heads/main/Screenshots/screenshot2.png)
+With the example 06_02 taken from OMAPS2, the audio-visual model used improves upon current audio transcription methods. The image below from "Proof of Concept/06_05.flp" demonstrates these improvements against models in transcribing 06_02, by identifying correct notes and removing noise - see audio-visual-fusion-v1 and audio-visual-fusion-v2.
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hashimh4/audio-visual-piano-transcription/refs/heads/main/Screenshots/screenshot1.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/hashimh4/audio-visual-piano-transcription/refs/heads/main/Screenshots/screenshot2.png" width="391"/>
+</p>
 
 The transcription for [Georgia On My Mind - Piano Online](https://www.youtube.com/watch?v=6_IBXag2Big) can also be seen in the "Proof of Concept" folder under the "georgia" files.
 
