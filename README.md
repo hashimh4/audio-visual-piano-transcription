@@ -33,4 +33,4 @@ The transcription for [Georgia On My Mind - Piano Online](https://www.youtube.co
 Current work is being completed here. Areas to improve upon revolve around keyboard detection correct key / hand segmentation from other angles. Updates in progress will be provided in a separate repository in the future.
 
 ## Contact
-Please send me an email at [hashimhussain4242@gmail.com](mailto:hashimhussain4242@gmail.com) for further information, such as for the full paper completed for my MEng Dissertation.
+Please send me an email at [hashimhussain4242@gmail.com](mailto:hashimhussain4242@gmail.com) for further information, such as for the full paper completed for my MEng Dissertation. I am also open and eager to discuss any available work/collaboration opportunities.
